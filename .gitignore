@@ -1,0 +1,29 @@
+# Regenerated SAT artifacts (keep small checked-in samples if you want)
+out/cnf/*.cnf
+out/solutions/*.txt
+
+# Keep directory layout in git
+!out/cnf/.gitkeep
+!out/solutions/.gitkeep
+
+# OS / Windows noise
+*:Zone.Identifier
+.DS_Store
+Thumbs.db
+
+# Archives / downloads
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+*.egg-info/
+.coverage
+htmlcov/
+
+# Editor / agent noise
+*.Zone.Identifier

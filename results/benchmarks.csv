@@ -1,0 +1,7 @@
+rounds,vars,clauses,result,wall_time_s,maxtime_s,testcase,solution_path
+1,724,2496,SAT,0.004,30.0,data/testcases/testcase1.txt,out/solutions/bench_r1_testcase1.txt
+2,1160,4448,SAT,0.115,30.0,data/testcases/testcase1.txt,out/solutions/bench_r2_testcase1.txt
+3,1596,6400,TIMEOUT,29.204,30.0,data/testcases/testcase1.txt,out/solutions/bench_r3_testcase1.txt
+4,2032,8352,TIMEOUT,29.311,30.0,data/testcases/testcase1.txt,out/solutions/bench_r4_testcase1.txt
+5,2468,10304,TIMEOUT,29.201,30.0,data/testcases/testcase1.txt,out/solutions/bench_r5_testcase1.txt
+31,13804,61056,TIMEOUT,29.210,30.0,data/testcases/testcase1.txt,out/solutions/bench_r31_testcase1.txt
